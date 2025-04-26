@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.total {
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.first {
+    margin-bottom: 20px;
+}
+
+.h1 {
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.p1 {
+    color: #9aa5b1;
+}
+
+.photo1 {
+    margin-right: 6px;
+    height: 200px;
+    width: 200px;
+}
+
+.photo2 {
+    margin-right: 6px;
+    height: 200px;
+    width: 200px;
+}
+
+.third {
+    margin-bottom: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+.embed-responsive {
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.fourth {
+    height: 300px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #f6c56e;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-size: 60% 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 8px rgba(246, 197, 110, 0.8);
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 30%;
+}
